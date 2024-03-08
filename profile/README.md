@@ -1,4 +1,4 @@
-**Quik links:** 
+**Quick links:** 
 [📘 FHS-BAP](https://www.bumc.bu.edu/fhs-bap/) &nbsp;
 [📑 BROC review system](https://broc-review.sail.codes/) &nbsp;
 [🔗 Brain tissue Quiry](https://fhs.sail.codes/) &nbsp;
