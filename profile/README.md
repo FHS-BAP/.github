@@ -3,7 +3,7 @@
 📑 [BROC review system](https://broc-review.sail.codes/) &nbsp;
 🔗 [Brain tissue Quiry](https://fhs.sail.codes/) &nbsp;
 🎬 [Lectures & Trainning](https://mymedia.bu.edu/media/t/1_2etjgeeu) &nbsp;
-📣 [What's New](NEWS.md)
+📣 [What's New](.github/profile/NEWS.md)
 
 ## 📙 Overview
 
