@@ -2,7 +2,8 @@
 📘 [FHS-BAP](https://www.bumc.bu.edu/fhs-bap/) &nbsp;
 📑 [BROC review system](https://broc-review.sail.codes/) &nbsp;
 🔗 [Brain tissue Quiry](https://fhs.sail.codes/) &nbsp;
-🎬 [Lectures & Trainning](https://mymedia.bu.edu/media/t/1_2etjgeeu) 
+🎬 [Lectures & Trainning](https://mymedia.bu.edu/media/t/1_2etjgeeu) &nbsp;
+📣 [What's New](NEWS.md)
 
 ## 📙 Overview
 
