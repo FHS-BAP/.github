@@ -10,14 +10,17 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-Since 1948, the [Framingham Heart Study](http://www.framinghamheartstudy.org) (**FHS**), 
-under the direction of the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/) (**NHLBI**), 
+
+Since **1948**, the **[Framingham Heart Study](http://www.framinghamheartstudy.org)** (**FHS**), 
+under the direction of the **[National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/)** (**NHLBI**), 
 formerly known as the National Heart Institute, has been committed to identifying the common factors or characteristics that contribute to cardiovascular disease (CVD) 
 over a long period of time in three generations of participants. 
-Since 1971, the **[Boston University Aram V. Chobanian & Edward Avedisian School of Medicine](https://www.bumc.bu.edu/)** (**BUMC**) 
+Since **1971**, the **[Boston University Aram V. Chobanian & Edward Avedisian School of Medicine](https://www.bumc.bu.edu/)** (**BUMC**) 
 has served as NHLBI contractor and academic partner for the study. 
-In 2020, the **[BUMC](https://www.bumc.bu.edu/)** received an infrastructure grant from the [National Institute on Aging](https://www.nia.nih.gov/) (**NIA**) 
+In **2020**, the **[BUMC](https://www.bumc.bu.edu/)** received an infrastructure grant from the **[National Institute on Aging](https://www.nia.nih.gov/)** (**NIA**) 
 to establish the **[FHS Brain Aging Program](https://www.bumc.bu.edu/fhs-bap/)** (**FHS-BAP**). 
+
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Framingham_Heart_Study_physicians_%2826548315418%29.jpg/609px-Framingham_Heart_Study_physicians_%2826548315418%29.jpg" alt="drawing" style="float:right;width:300px;height:200px;"/>
 
 Since its inception, the **[FHS-BAP Data Core](https://github.com/FHS-BAP)** has played a crucial role in strengthening the data infrastructure 
 necessary for studying brain aging, cognitive decline, Alzheimer’s disease (AD), and all causes of dementia. 
@@ -27,7 +30,7 @@ laboratory biomarkers covering proteomics and genomics data, as well as neuropsy
 Meanwhile, we also make great efforts to incorporate new clinical data, including medication records, physical activity assessments, surgical history, 
 lifestyle, diet, as well as novel digital markers related to health data. Upholding the principles of FAIR (Findable, Accessible, Interoperable, and Reusable) 
 in data management, we ensure the integrity and accessibility of this valuable data. Through close collaboration with 
-[FHS-BAP internal cores](https://www.bumc.bu.edu/fhs-bap/for-researchers/programs-and-cores/), 
+**[FHS-BAP internal cores](https://www.bumc.bu.edu/fhs-bap/for-researchers/programs-and-cores/)**, 
 FHS contract staff, FHS study research collaborators, and external teams worldwide, we facilitate the seamless collection, auditing, 
 quality control, processing, and sharing of curated tidy datasets to ensure data accuracy, reliability and research-analysis readiness. 
 
