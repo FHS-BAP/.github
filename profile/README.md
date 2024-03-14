@@ -1,9 +1,11 @@
-**Quick links:** 
-📘 [FHS-BAP](https://www.bumc.bu.edu/fhs-bap/) &nbsp;
-📑 [BROC Review System](https://broc-review.sail.codes/) &nbsp;
-🔗 [Brain Tissue Query](https://fhs.sail.codes/) &nbsp;
-🎬 [Lectures & Trainning](https://mymedia.bu.edu/media/t/1_2etjgeeu) &nbsp;
-📣 [What's New](NEWS.md)
+<p align="center">
+    📘 <a class="active" href="https://www.bumc.bu.edu/fhs-bap/)"><b></b>[FHS-BAP]</a> &nbsp;
+    📑 <a href="https://broc-review.sail.codes/"><b>News</b></a> &nbsp;
+    🔗 <a href="https://fhs.sail.codes"><b>Contact</b></a> &nbsp;
+    🎬 <a href="https://mymedia.bu.edu/media/t/1_2etjgeeu"><b>About</b></a> &nbsp;
+    📣 <a href="./NEWS.md"><b>[What's New]</b></a>
+</p>
+
 
 ![banner](/img/banner_03.jpg "Logo")
 
