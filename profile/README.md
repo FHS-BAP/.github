@@ -3,7 +3,7 @@
     📑 <a href="https://broc-review.sail.codes/"><b>News</b></a> &nbsp;
     🔗 <a href="https://fhs.sail.codes"><b>Contact</b></a> &nbsp;
     🎬 <a href="https://mymedia.bu.edu/media/t/1_2etjgeeu"><b>About</b></a> &nbsp;
-    📣 <a href="./NEWS.md"><b>[What's New]</b></a>
+    📣 <a href="../NEWS.md"><b>[What's New]</b></a>
 </p>
 
 
