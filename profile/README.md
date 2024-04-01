@@ -17,9 +17,11 @@ Please explore our [FHS-BAP website](https://fhs-bap.github.io/) to learn more a
 Thank you for visiting, and we look forward to connecting with you!
 
 <hr/>
+
 ##  🎉 What's new?
 
 ### FHS-BAP curated data training series
+
 > From **Michael Cummings**, February 22nd, 2024    
 * [Introduction to Framingham Heart Study Data](https://mymedia.bu.edu/media/t/1_2etjgeeu)
 
