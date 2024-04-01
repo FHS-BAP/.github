@@ -2,7 +2,7 @@
     📘 <a class="active" href="https://www.bumc.bu.edu/fhs-bap/"><b></b>[FHS-BAP]</a> &nbsp;
     📙 <a class="active" href="https://fhs-bap.github.io/"><b></b>[FHS-BAP Data Core]</a> &nbsp;
     🔗 <a href="https://fhs.sail.codes"><b>[Brain Tissue Query]</b></a> &nbsp;
-    📣 <a href="../../NEWS.md"><b>[What's New]</b></a>
+    📣 <a href="href="https://fhs-bap.github.io/blog/"><b>[Blog]</b></a>
 </p>
 
 ![banner](/img/banner_03.jpg "Logo")
