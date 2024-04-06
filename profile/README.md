@@ -19,10 +19,16 @@ We're delighted to have you here. As a central hub for managing and sharing data
 <hr/>
 
 ##  🎉 What's new?
-
-### FHS-BAP curated data training series
-
-> From **Michael Cummings**, February 22nd, 2024    
-* [Introduction to Framingham Heart Study Data](https://mymedia.bu.edu/media/t/1_2etjgeeu)
-
+### Public Access update
+* [FHS-BAP Data Core Website](https://fhs-bap.github.io/) is launched to share the information about FHS-data and foster collaboration in AD-related research.
+* [FHS Brain Data Query System](https://fhs.sail.codes/) is online! 🌟  
+* [SAS program scripts to generate FHS-BAP curated dataset format](https://github.com/FHS-BAP/Curated-Datasets)
+* [FHS-BAP Medication harmonization source code](https://github.com/FHS-BAP/Medication-Harmonization-FHS-BAP)
+* [Slone ATC Harmonization Files](https://github.com/FHS-BAP/Slone-ATC-Harmonization)
+   
+### FHS-BAP Data Tutorial series
+* Kathy Kelley, [Slone Drug Dictionary](https://mymedia.bu.edu/media/t/1_115kc5bu), Slone Epidemiology Center, Research Pharmacist, March 28, 2024
+* Michael Cummings, [Introduction to Medication Harmonization](https://mymedia.bu.edu/media/t/1_ysh955cu), FHS-BAP Data Core, March 28, 2024
+* Michael Cummings, [Introduction to Framingham Heart Study Data](https://mymedia.bu.edu/media/t/1_2etjgeeu), FHS-BAP Data Core, February 20, 2024
+* Xavier Serrano, [BROC Data Query Tutorial](https://fhs.sail.codes/), FHS-BAP Data Core, October 25, 2023
 
